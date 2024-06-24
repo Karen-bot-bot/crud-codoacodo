@@ -1,0 +1,7 @@
+com\crudcodoacodo\proyecto\crud\codoacodo\modelo\Modelo.class
+com\crudcodoacodo\proyecto\crud\codoacodo\modelo\AppServlet.class
+com\crudcodoacodo\proyecto\crud\codoacodo\modelo\Orador.class
+com\crudcodoacodo\proyecto\crud\codoacodo\controlador\EliminarOrador.class
+com\crudcodoacodo\proyecto\crud\codoacodo\controlador\AgregarOrador.class
+com\crudcodoacodo\proyecto\crud\codoacodo\modelo\Conexion.class
+com\crudcodoacodo\proyecto\crud\codoacodo\controlador\ActualizarOrador.class
